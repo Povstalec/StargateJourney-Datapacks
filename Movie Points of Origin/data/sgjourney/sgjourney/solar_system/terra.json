@@ -1,0 +1,10 @@
+{
+	"name": "Earth",
+	"address": [27, 25, 4, 35, 10, 28],
+	"point_of_origin": "sgjourney:tauri",
+	"dimensions":
+	[
+		"minecraft:overworld",
+		"minecraft:the_nether"
+	]
+}
