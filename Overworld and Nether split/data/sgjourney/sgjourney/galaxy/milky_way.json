@@ -1,0 +1,13 @@
+{
+	"name": "Milky Way",
+	"type": "sgjourney:medium_galaxy",
+	"symbols": "sgjourney:milky_way",
+	"symbol": 11,
+	"solar_systems":
+	[
+		"sgjourney:terra",
+		"terrasplit:nether",
+		"sgjourney:abydos",
+		"sgjourney:chulak"
+	]
+}

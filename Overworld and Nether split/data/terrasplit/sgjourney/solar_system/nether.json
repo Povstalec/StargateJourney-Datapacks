@@ -1,0 +1,9 @@
+{
+	"name": "Nether",
+	"address": [6, 25, 3, 35, 11, 28],
+	"point_of_origin": "sgjourney:wither",
+	"dimensions":
+	[
+		"minecraft:the_nether"
+	]
+}
