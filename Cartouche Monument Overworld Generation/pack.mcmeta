@@ -1,0 +1,7 @@
+{
+	"pack":
+	{
+		"pack_format": 10,
+		"description": "Should fix maps leading to Beta gate instead of Alpha gate"
+	}
+}
