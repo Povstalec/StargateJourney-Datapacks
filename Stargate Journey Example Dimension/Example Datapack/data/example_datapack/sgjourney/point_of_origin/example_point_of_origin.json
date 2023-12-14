@@ -1,0 +1,5 @@
+{
+	"name": "point_of_origin.example_datapack.example_point_of_origin",
+	"texture": "example_datapack:example_symbol_set/points_of_origin/example_point_of_origin.png",
+	"generates_randomly": false
+}

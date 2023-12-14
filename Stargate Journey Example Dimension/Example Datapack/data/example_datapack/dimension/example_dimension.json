@@ -1,0 +1,13 @@
+{
+	"type": "example_datapack:example_dimension_type",
+	"generator":
+	{
+		"type": "minecraft:noise",
+		"settings": "example_datapack:example_dimension_settings",
+		"biome_source":
+		{
+			"type": "minecraft:fixed",
+			"biome": "example_datapack:example_biome"
+		}
+	}
+}

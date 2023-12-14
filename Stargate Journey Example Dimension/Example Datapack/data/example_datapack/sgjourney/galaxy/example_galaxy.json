@@ -1,0 +1,12 @@
+{
+	"name": "galaxy.example_datapack.example_galaxy",
+	"type": "sgjourney:dwarf_galaxy",
+	"default_symbols": "example_datapack:example_symbol_set",
+	"solar_systems":
+	[
+		{
+			"solar_system": "example_datapack:example_solar_system",
+			"address": {"address": [13, 8, 22, 19, 3, 33], "randomizable": true}
+		}
+	]
+}

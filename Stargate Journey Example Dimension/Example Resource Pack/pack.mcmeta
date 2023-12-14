@@ -1,0 +1,7 @@
+{
+	"pack":
+	{
+		"pack_format": 15,
+		"description": "Adds a custom Point of Origin, Symbols, Symbol Set, Solar System, Galaxy and a Dimension, which it then integrates with everything (Only works with Minecraft versions 1.20.1 and above because biome registry changed, but all of the stuff shown here that is related to sgjourney will work on all other Minecraft versions)"
+	}
+}

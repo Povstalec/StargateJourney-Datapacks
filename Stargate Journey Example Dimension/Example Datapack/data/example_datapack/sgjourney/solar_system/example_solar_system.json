@@ -1,0 +1,11 @@
+{
+	"name": "solar_system.example_datapack.proxima_centauri",
+	"symbols": "example_datapack:example_symbols",
+	"symbol_prefix": 21,
+	"extragalactic_address": {"address": [21, 8, 6, 13, 27, 35, 22], "randomizable": true},
+	"point_of_origin": "example_datapack:example_point_of_origin",
+	"dimensions":
+	[
+		"example_datapack:example_dimension"
+	]
+}
