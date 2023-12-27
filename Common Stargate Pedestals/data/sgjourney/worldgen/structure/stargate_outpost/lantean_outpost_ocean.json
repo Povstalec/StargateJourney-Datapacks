@@ -1,7 +1,7 @@
 {
   "type": "sgjourney:common_stargate",
 
-  "start_pool": "sgjourney:stargate_outpost/lantean_outpost_ocean_pool",
+  "start_pool": "sgjourney:stargate/pegasus/outpost/lantean_outpost_ocean_pool",
 
   "size": 3,
 

@@ -1,7 +1,7 @@
 {
   "type": "sgjourney:common_stargate",
 
-  "start_pool": "sgjourney:stargate_pedestal/stargate_pedestal_desert",
+  "start_pool": "sgjourney:stargate/milky_way/pedestal/stargate_pedestal_desert",
 
   "size": 1,
 
