@@ -22,9 +22,6 @@
     		"minecraft:plains",
     		"minecraft:sunflower_plains",
     		"minecraft:dripstone_caves",
-    		"minecraft:lush_caves",
-		
-		"sgjourney:milky_way_forest",
-		"sgjourney:milky_way_plains"
+    		"minecraft:lush_caves"
     ]
 }

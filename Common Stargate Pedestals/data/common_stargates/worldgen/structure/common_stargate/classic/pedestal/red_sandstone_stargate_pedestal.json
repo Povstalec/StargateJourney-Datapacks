@@ -7,7 +7,7 @@
 	
 	"max_distance_from_center": 80,
 	
-	"biomes": "#common_stargates:has_structure/common_stargate/classic/pedestal/classic_stargate_pedestal_badlands_biomes",
+	"biomes": "#common_stargates:has_structure/common_stargate/classic/pedestal/classic_common_stargate_pedestal_badlands_biomes",
 	
 	"step": "strongholds",
 	

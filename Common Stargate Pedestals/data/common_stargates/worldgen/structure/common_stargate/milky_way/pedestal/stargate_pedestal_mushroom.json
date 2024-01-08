@@ -1,13 +1,13 @@
 {
 	"type": "sgjourney:common_stargate",
 	
-	"start_pool": "common_stargates:common_stargate/classic/pedestal/stargate_pedestal",
+	"start_pool": "common_stargates:common_stargate/milky_way/pedestal/stargate_pedestal_mushroom",
 	
 	"size": 1,
 	
 	"max_distance_from_center": 80,
 	
-	"biomes": "#common_stargates:has_structure/common_stargate/classic/pedestal/classic_common_stargate_pedestal_biomes",
+	"biomes": "#common_stargates:has_structure/common_stargate/milky_way/pedestal/milky_way_common_stargate_pedestal_mushroom_biomes",
 	
 	"step": "strongholds",
 	
